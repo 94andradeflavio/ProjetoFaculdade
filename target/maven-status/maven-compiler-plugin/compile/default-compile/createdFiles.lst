@@ -1,0 +1,6 @@
+com\mycompany\projetojavaweb\JAXRSConfiguration.class
+com\mycompany\projetojavaweb\resources\JavaEE8Resource.class
+ModeloDAO\AlunoDAO.class
+Controller\AlunosController.class
+Model\Aluno.class
+Config\ConexaoMysql.class
